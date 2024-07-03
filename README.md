@@ -4,7 +4,7 @@ Slides and code for the Fluttercon 2024 talk
 
 ## Slides
 
-PDF file with slides is located in the root directory. All images should have associated labels, however it's not guaranteed when exporting PDF from Google Slides.
+[PDF file](slides.pdf) with slides is located in the root directory. All images should have associated labels, however it's not guaranteed when exporting PDF from Google Slides.
 
 ## Running app to play with `accessibility_tools`
 
