@@ -22,6 +22,8 @@ flutter test test/guidelines_test.dart
 
 Test fails because floating action button has not semantic label. Adding a semantic label or a tooltip fixes the issue.
 
+Guidelines test also contains a custom guideline to check the semantic label's max acceptable length.
+
 ## Running widget tests with modified accessibility options
 
 Running the following command shows no problem with tests:
